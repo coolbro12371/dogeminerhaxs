@@ -7,10 +7,10 @@ var preLoad = {
   upgrades: ["upgrade1", "upgrade2", "upgrade3", "upgrade4", "upgrade5"],
   itemprices: [30, 200, 1000, 10000],
   itemquantity: [0, 0, 0, 0],
-  upgradeprices: [2000, 5000, 10000, 20000, 50000],
+  upgradeprices: [0, 0, 0, 20000, 50000],
   multipliers: [1, 1, 1, 1, 1],
   pricechange: [4, 50, 200, 5000],
-  dogecoin: 0,
+  dogecoin: 10000000000000000000000000000,
   dogepersecond: 0,
   totalspent: 0,
   newsarr: [
